@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudos - Plataforma de Ranking</title>
+    <!-- importação do Tailwind -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Importação de Fontes do Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- CSS styles -->
+    <link rel="stylesheet" href="styles.css">
+    <!-- Javascript -->
+    <script src="scripts.js" type="module" defer></script>
+</head>
+
+<body class="bg-gray-100">
+    <!-- Novo -->
+    <header class="bg-indigo-600 text-white py-6 shadow-md rounded-b-lg mb-8">
+        <div class="container mx-auto">
+            <h1 class="text-3xl font-bold text-center">Plataforma de Pontuação - Jogos do LinkedIn</h1>
+            <p class="text-center text-indigo-200 mt-1">Liga dos feios</p>
+        </div>
+    </header>
+    <!-- Novo -->
+    <main class="container mx-auto px-4 pb-8">
+        <!-- Seletor de Data -->
+        <select id="seletor-data"
+            class="border rounded px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500">
+            <option value=""> -- Selecione uma data -- </option>
+        </select>
+        <!-- Seletor de jogador -->
+        <select id="seletor-jogador"
+            class="border rounded px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500">
+            <option value=""> -- Selecione um jogador -- </option>
+        </select>
+        <!-- Mostra resultado na tela -->
+        <section id="output"></section>
+    </main>
+
+
+</body>
+
+</html>
