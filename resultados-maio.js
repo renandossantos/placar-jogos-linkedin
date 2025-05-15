@@ -225,7 +225,7 @@ let placar = [
     tempo: "0:33",
     flawless: true,
     data: "2024-05-13",
-    segundos: 35,
+    segundos: 33,
   },
   {
     nome: "Carolina",
@@ -438,6 +438,119 @@ let placar = [
     tempo: "0:24",
     flawless: false,
     data: "2024-05-14",
+    segundos: 24,
+  }, */
+  /* ####################################### quinta-feira 15/05 */
+
+  {
+    //////////////////////////// NINA
+    nome: "Carolina",
+    jogo: "Tango",
+    id: 220,
+    tempo: "0:46",
+    flawless: true,
+    data: "2024-05-15",
+    segundos: 46,
+  },
+  {
+    nome: "Carolina",
+    jogo: "Queens",
+    id: 380,
+    tempo: "0:52",
+    flawless: false,
+    data: "2024-05-15",
+    segundos: 52,
+  },
+  {
+    nome: "Carolina",
+    jogo: "Zip",
+    id: 59,
+    tempo: "0:25",
+    flawless: false,
+    data: "2024-05-15",
+    segundos: 25,
+  }, //////////////////////////// BETA
+  {
+    nome: "Roberta",
+    jogo: "Tango",
+    id: 220,
+    tempo: "0:46",
+    flawless: true,
+    data: "2024-05-15",
+    segundos: 46,
+  },
+  {
+    nome: "Roberta",
+    jogo: "Queens",
+    id: 380,
+    tempo: "1:04",
+    flawless: true,
+    data: "2024-05-15",
+    segundos: 64,
+  },
+  {
+    nome: "Roberta",
+    jogo: "Zip",
+    id: 59,
+    tempo: "1:22",
+    flawless: false,
+    data: "2024-05-15",
+    segundos: 82,
+  },
+  /*   {
+    //////////////////////////// LAURA
+    nome: "Laura",
+    jogo: "Zip",
+    id: 57,
+    tempo: "0:11",
+    flawless: true,
+    data: "2024-05-15",
+    segundos: 11,
+  },
+  {
+    nome: "Laura",
+    jogo: "Queens",
+    id: 378,
+    tempo: "0:33",
+    flawless: true,
+    data: "2024-05-15",
+    segundos: 33,
+  },
+  {
+    nome: "Laura",
+    jogo: "Tango",
+    id: 218,
+    tempo: "0:26",
+    flawless: true,
+    data: "2024-05-15",
+    segundos: 26,
+  }, */
+  {
+    //////////////////////////// Roberto
+    nome: "Roberto",
+    jogo: "Tango",
+    id: 229,
+    tempo: "0:59",
+    flawless: true,
+    data: "2024-05-15",
+    segundos: 59,
+  },
+  {
+    nome: "Roberto",
+    jogo: "Queens",
+    id: 380,
+    tempo: "1:59",
+    flawless: false,
+    data: "2024-05-15",
+    segundos: 119,
+  },
+  /*   {
+    nome: "Roberto",
+    jogo: "Zip",
+    id: 57,
+    tempo: "0:24",
+    flawless: false,
+    data: "2024-05-15",
     segundos: 24,
   }, */
 ];
