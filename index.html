@@ -28,15 +28,19 @@
     <!-- Novo -->
     <main class="container mx-auto px-4 pb-8">
         <!-- Seletor de Data -->
-        <select id="seletor-data"
-            class="border rounded px-4 py-2 text-md focus:outline-none focus:ring-2 focus:ring-blue-500">
-            <option value=""> -- Selecione uma data -- </option>
-        </select>
-        <!-- Seletor de jogador -->
-        <select id="seletor-jogador"
-            class="border rounded px-4 py-2 text-md focus:outline-none focus:ring-2 focus:ring-blue-500">
-            <option value=""> -- Selecione um jogador -- </option>
-        </select>
+        <div class="grid grid-cols-2 gap-6">
+            <select id="seletor-data"
+                class="text-center border rounded px-4 py-2 text-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+                <option value=""> -- Selecione uma data -- </option>
+            </select>
+
+            <!-- Seletor de jogador -->
+            <select id="seletor-jogador"
+                class="text-center border rounded px-4 py-2 text-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+                <option value=""> -- Selecione um jogador -- </option>
+            </select>
+        </div>
+
         <!-- Mostra resultado na tela -->
         <section id="output"></section>
     </main>
