@@ -1,4 +1,4 @@
-import showResults from "./database.js";
+import showResults from "./resultados-maio.js";
 
 const resultados = showResults(); // resultados importados do Database
 const mostrarNaTela = document.querySelector("#output"); // Cria Section com os dados na tela
