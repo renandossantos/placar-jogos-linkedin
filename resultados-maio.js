@@ -111,7 +111,7 @@ let placar = [
     id: 218,
     tempo: "0:35",
     flawless: true,
-    data: "2024-05-14",
+    data: "2024-05-12",
     segundos: 33,
   },
   {
