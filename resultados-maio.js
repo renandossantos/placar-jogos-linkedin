@@ -1264,29 +1264,29 @@ let placar = [
   {
     nome: "Roberta",
     jogo: "Tango",
-    id: 226,
-    tempo: "0:46",
+    id: 227,
+    tempo: "0:31",
     flawless: true,
     data: "2024-05-22",
-    segundos: 46,
+    segundos: 31,
   },
   {
     nome: "Roberta",
     jogo: "Queens",
-    id: 386,
-    tempo: "0:41",
+    id: 387,
+    tempo: "1:07",
     flawless: true,
     data: "2024-05-22",
-    segundos: 41,
+    segundos: 67,
   },
   {
     nome: "Roberta",
     jogo: "Zip",
-    id: 65,
-    tempo: "0:12",
+    id: 66,
+    tempo: "0:42",
     flawless: false,
     data: "2024-05-22",
-    segundos: 12,
+    segundos: 42,
   },
   /* {
     //////////////////////////// LAURA
@@ -1418,7 +1418,7 @@ let placar = [
     tempo: "1:40",
     flawless: true,
     data: "2024-05-23",
-    segundos: 104,
+    segundos: 100,
   },
   {
     nome: "Laura",
@@ -1487,7 +1487,7 @@ let placar = [
     data: "2024-05-24",
     segundos: 146,
   }, //////////////////////////// BETA
-  {
+  /* {
     nome: "Roberta",
     jogo: "Tango",
     id: 228,
@@ -1513,10 +1513,10 @@ let placar = [
     flawless: false,
     data: "2024-05-24",
     segundos: 20,
-  },
-  {
+  }, */
+  /*  {
     //////////////////////////// LAURA
-    nome: "Laura",
+     nome: "Laura",
     jogo: "Tango",
     id: 228,
     tempo: "0:33",
@@ -1541,7 +1541,7 @@ let placar = [
     flawless: true,
     data: "2024-05-24",
     segundos: 15,
-  },
+  }, */
 
   /*   {//////////////////////////// Roberto
       nome: "Roberto",
@@ -1577,7 +1577,7 @@ let placar = [
     nome: "Carolina",
     jogo: "Tango",
     id: 230,
-    tempo: "1:02",
+    tempo: "1:01",
     flawless: true,
     data: "2024-05-25",
     segundos: 61,
@@ -1586,15 +1586,15 @@ let placar = [
     nome: "Carolina",
     jogo: "Queens",
     id: 390,
-    tempo: "0:54",
-    flawless: true,
+    tempo: "4:14",
+    flawless: false,
     data: "2024-05-25",
-    segundos: 54,
+    segundos: 254,
   },
   {
     nome: "Carolina",
     jogo: "Zip",
-    id: 67,
+    id: 69,
     tempo: "0:19",
     flawless: true,
     data: "2024-05-25",
@@ -1631,20 +1631,20 @@ let placar = [
     //////////////////////////// LAURA
     nome: "Laura",
     jogo: "Tango",
-    id: 228,
-    tempo: "0:33",
+    id: 230,
+    tempo: "1:53",
     flawless: true,
     data: "2024-05-25",
-    segundos: 33,
+    segundos: 113,
   },
   {
     nome: "Laura",
     jogo: "Queens",
-    id: 388,
-    tempo: "1:40",
-    flawless: true,
+    id: 390,
+    tempo: "6:21",
+    flawless: false,
     data: "2024-05-25",
-    segundos: 100,
+    segundos: 381,
   },
   {
     nome: "Laura",
